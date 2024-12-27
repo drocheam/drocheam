@@ -1,12 +1,12 @@
 
 ### Research
-<a href="https://github.com/drocheam/falco-retinal-tracking"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=falco-retinal-tracking&theme=dark&hide_border=true"></a>&nbsp;
-<a href="https://github.com/drocheam/miol-reng-tools"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=miol-reng-tools&theme=dark&hide_border=true"></a>&nbsp;
-<a href="https://github.com/drocheam/musurf-reader"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=musurf-reader&theme=dark&hide_border=true"></a>&nbsp;
+<a href="https://github.com/drocheam/falco-retinal-tracking"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=falco-retinal-tracking&theme=react&hide_border=true"></a>&nbsp;
+<a href="https://github.com/drocheam/miol-reng-tools"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=miol-reng-tools&theme=react&hide_border=true"></a>&nbsp;
+<a href="https://github.com/drocheam/musurf-reader"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=musurf-reader&theme=react&hide_border=true"></a>&nbsp;
 
 ### Tools
-<a href="https://github.com/drocheam/fillwan"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=fillwan&theme=dark&hide_border=true"></a>&nbsp;
-<a href="https://github.com/drocheam/caprice"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=caprice&theme=dark&hide_border=true"></a>&nbsp;
+<a href="https://github.com/drocheam/fillwan"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=fillwan&theme=react&hide_border=true"></a>&nbsp;
+<a href="https://github.com/drocheam/caprice"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=caprice&theme=react&hide_border=true"></a>&nbsp;
 
 
 ### Languages
