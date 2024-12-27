@@ -1,12 +1,14 @@
 
 ### Research
-<a href="https://github.com/drocheam/falco-retinal-tracking"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=falco-retinal-tracking&theme=vue-dark&hide_border=true"></a>&nbsp;
-<a href="https://github.com/drocheam/miol-reng-tools"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=miol-reng-tools&theme=vue-dark&hide_border=true"></a>&nbsp;
-<a href="https://github.com/drocheam/musurf-reader"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=musurf-reader&theme=vue-dark&hide_border=true"></a>&nbsp;
-
+<div background-color="#fff">
+<a href="https://github.com/drocheam/falco-retinal-tracking"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=falco-retinal-tracking&theme=github_dark&hide_border=true"></a>&nbsp;
+<a href="https://github.com/drocheam/miol-reng-tools"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=miol-reng-tools&theme=github_dark&hide_border=true"></a>&nbsp;
+<a href="https://github.com/drocheam/musurf-reader"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=musurf-reader&theme=github_dark&hide_border=true"></a>&nbsp;
+</div>
+                                                      
 ### Tools
-<a href="https://github.com/drocheam/fillwan"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=fillwan&theme=vue-dark&hide_border=true"></a>&nbsp;
-<a href="https://github.com/drocheam/caprice"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=caprice&theme=vue-dark&hide_border=true"></a>&nbsp;
+<a href="https://github.com/drocheam/fillwan"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=fillwan&theme=github_dark&hide_border=true"></a>&nbsp;
+<a href="https://github.com/drocheam/caprice"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=caprice&theme=github_dark&hide_border=true"></a>&nbsp;
 
 
 ### Languages
