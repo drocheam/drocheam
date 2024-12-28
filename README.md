@@ -1,17 +1,18 @@
 
 ### Research
-<div background-color="#fff">
-<a href="https://github.com/drocheam/falco-retinal-tracking"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=falco-retinal-tracking&theme=github_dark&hide_border=true"></a>&nbsp;
-<a href="https://github.com/drocheam/miol-reng-tools"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=miol-reng-tools&theme=github_dark&hide_border=true"></a>&nbsp;
-<a href="https://github.com/drocheam/musurf-reader"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=musurf-reader&theme=github_dark&hide_border=true"></a>&nbsp;
-</div>
-                                                      
+
+[![FALCO Retinal Tracking Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=falco-retinal-tracking&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/falco-retinal-tracking)
+[![MIOL RENG Tools Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=miol-reng-tools&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/miol-reng-tools)
+[![Musurf Reader Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=musurf-reader&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/musurf-reader)
+
 ### Tools
-<a href="https://github.com/drocheam/fillwan"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=fillwan&theme=github_dark&hide_border=true"></a>&nbsp;
-<a href="https://github.com/drocheam/caprice"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=caprice&theme=github_dark&hide_border=true"></a>&nbsp;
+
+[![Fillwan Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=fillwan&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/fillwan)
+[![Caprice Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=caprice&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/caprice)
 
 
 ### Languages
+
 <div>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height=40px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height=40px src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"></a>&nbsp;
@@ -22,6 +23,7 @@
 
 
 ### Tools and Libraries
+
 <div>
   <a href="https://github.com/torvalds/linux"><img height=40px src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"></a>&nbsp;
   <a href="https://archlinux.org/"><img height=40px src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png"></a>&nbsp;
