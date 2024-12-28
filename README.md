@@ -9,7 +9,7 @@
 
 [![Fillwan Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=fillwan&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/fillwan)
 [![Caprice Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=caprice&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/caprice)
-
+[![Labyrinth Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=labyrinth&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/labyrinth)
 
 ### Languages
 
