@@ -1,6 +1,7 @@
 
 ### Research
 
+[![Optrace Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=optrace&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/optrace)
 [![FALCO Retinal Tracking Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=falco-retinal-tracking&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/falco-retinal-tracking)
 [![MIOL RENG Tools Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=miol-reng-tools&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/miol-reng-tools)
 [![Musurf Reader Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=musurf-reader&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/musurf-reader)
