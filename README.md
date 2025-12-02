@@ -1,30 +1,29 @@
 
 ### Research
 
+
 ##### <a href="https://github.com/drocheam/optrace" target="_blank"> 🕮&nbsp;&nbsp;optrace </a>
-<sup>An optics simulation package with sequential raytracing, image rendering and a GUI frontend.</sup>
+An optics simulation package with sequential raytracing, image rendering and a GUI frontend.
 
 ##### <a href="https://github.com/drocheam/falco-retinal-tracking" target="_blank"> 🕮&nbsp;&nbsp;falco-retinal-tracking </a>
-<sup>Real-time retinal tracking for ophthalmic applications. Optimized for low quality funduscopy data and for high detection and low error rates.</sup>
+Real-time retinal tracking for ophthalmic applications. Optimized for low quality funduscopy data and for high detection and low error rates.
 
 ##### <a href="https://github.com/drocheam/miol-reng-tools" target="_blank">  🕮&nbsp;&nbsp;miol-reng-tools</a>
-<sup>Tools for reverse engineering multifocal intraocular lenses. </sup>
+Tools for reverse engineering multifocal intraocular lenses.
 
 ##### <a href="https://github.com/drocheam/musurf-reader" target="_blank"> 🕮&nbsp;&nbsp;musurf-reader </a>
-<sup>Functions for importing µsurf confocal microscope binary file formats. </sup>
-
+Functions for importing µsurf confocal microscope binary file formats.
 
 ### Tools
 
 ##### <a href="https://github.com/drocheam/fillwan" target="_blank"> 🕮&nbsp;&nbsp;fillwan </a>
-<sup>A command line tool analyzing your text for undesired expressions in academic writing. </sup>
-
+A command line tool analyzing your text for undesired expressions in academic writing. 
 
 ##### <a href="https://github.com/drocheam/caprice" target="_blank"> 🕮&nbsp;&nbsp;caprice</a>
-<sup>Terminal frontend for the caprice online radio.</sup>
+Terminal frontend for the caprice online radio.
 
 ##### <a href="https://github.com/drocheam/labyrinth" target="_blank">  🕮&nbsp;&nbsp;labyrinth</a>
-<sup>Create labyrinths in Python. Maze creation algorithm with adjustable size, directional bias and laziness factor. Output as plot window, image or ASCII labyrinth. </sup>
+Create labyrinths in Python. Maze creation algorithm with adjustable size, directional bias and laziness factor. Output as plot window, image or ASCII labyrinth.
 
 
 ### Languages
