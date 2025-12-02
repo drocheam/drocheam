@@ -1,16 +1,52 @@
 
 ### Research
 
-[![Optrace Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=optrace&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/optrace)
-[![FALCO Retinal Tracking Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=falco-retinal-tracking&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/falco-retinal-tracking)
-[![MIOL RENG Tools Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=miol-reng-tools&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/miol-reng-tools)
-[![Musurf Reader Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=musurf-reader&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/musurf-reader)
+<div>
+<table>
+  <tr><td width="400px">
+      <h4><a href="https://github.com/drocheam/optrace" target="_blank"> 🕮&nbsp;&nbsp;optrace </a></h4>
+      <p><sub>An optics simulation package with sequential raytracing, image rendering and a GUI frontend.<br/><br/></sub></p><p></p>
+    </td> <td width="400px">
+      <h4><a href="https://github.com/drocheam/falco-retinal-tracking" target="_blank"> 🕮&nbsp;&nbsp;falco-retinal-tracking </a></h4>
+      <p><sub>Real-time retinal tracking for ophthalmic applications. Optimized for low quality funduscopy data and for high detection and low error rates.<br/></sub></p><p></p>
+    </td></tr>
+</table>
+</div>
+<div>
+<table>
+  <tr> <td width="400px">
+      <h4> <a href="https://github.com/drocheam/miol-reng-tools" target="_blank">  🕮&nbsp;&nbsp;miol-reng-tools</a> </h4>
+      <p><sub>Tools for reverse engineering multifocal intraocular lenses <br/><br/><br/></sub></p><p></p>
+    </td> <td width="400px">
+      <h4> <a href="https://github.com/drocheam/musurf-reader" target="_blank"> 🕮&nbsp;&nbsp;musurf-reader </a></h4>
+      <p><sub>Functions for importing µsurf confocal microscope binary file formats. <br/><br/></sub></p><p></p>
+    </td> </tr>
+</table>
+</div>
+
 
 ### Tools
 
-[![Fillwan Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=fillwan&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/fillwan)
-[![Caprice Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=caprice&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/caprice)
-[![Labyrinth Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=drocheam&repo=labyrinth&theme=github_dark&border_color=3d444d&description_lines_count=3)](https://github.com/drocheam/labyrinth)
+<div>
+<table>
+  <tr><td width="400px">
+      <h4><a href="https://github.com/drocheam/fillwan" target="_blank"> 🕮&nbsp;&nbsp;fillwan </a></h4>
+      <p><sub>A command line tool analyzing your text for undesired expressions in academic writing. <br/><br/></sub></p><p></p>
+    </td><td width="400px">
+      <h4><a href="https://github.com/drocheam/caprice" target="_blank"> 🕮&nbsp;&nbsp;caprice</a></h4>
+      <p><sub>Terminal frontend for the caprice online radio.<br/><br/><br/></sub></p><p></p>
+    </td> </tr>
+</table>
+</div>
+<div>
+<table>
+  <tr><td width="400px">
+      <h4> <a href="https://github.com/drocheam/labyrinth" target="_blank">  🕮&nbsp;&nbsp;labyrinth</a> </h4>
+      <p><sub>Create labyrinths in Python. Maze creation algorithm with adjustable size, directional bias and laziness factor. Output as plot window, image or ASCII labyrinth.  <br/></sub></p><p></p>
+  </td></tr>
+</table>
+</div>
+
 
 ### Languages
 
