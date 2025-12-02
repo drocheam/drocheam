@@ -1,51 +1,30 @@
 
 ### Research
 
-<div>
-<table>
-  <tr><td width="400px">
-      <h4><a href="https://github.com/drocheam/optrace" target="_blank"> 🕮&nbsp;&nbsp;optrace </a></h4>
-      <p><sub>An optics simulation package with sequential raytracing, image rendering and a GUI frontend.<br/><br/></sub></p><p></p>
-    </td> <td width="400px">
-      <h4><a href="https://github.com/drocheam/falco-retinal-tracking" target="_blank"> 🕮&nbsp;&nbsp;falco-retinal-tracking </a></h4>
-      <p><sub>Real-time retinal tracking for ophthalmic applications. Optimized for low quality funduscopy data and for high detection and low error rates.</sub></p><p></p>
-    </td></tr>
-</table>
-</div>
-<div>
-<table>
-  <tr> <td width="400px">
-      <h4> <a href="https://github.com/drocheam/miol-reng-tools" target="_blank">  🕮&nbsp;&nbsp;miol-reng-tools</a> </h4>
-      <p><sub>Tools for reverse engineering multifocal intraocular lenses </sub></p><p></p>
-    </td> <td width="400px">
-      <h4> <a href="https://github.com/drocheam/musurf-reader" target="_blank"> 🕮&nbsp;&nbsp;musurf-reader </a></h4>
-      <p><sub>Functions for importing µsurf confocal microscope binary file formats. </sub></p><p></p>
-    </td> </tr>
-</table>
-</div>
+##### <a href="https://github.com/drocheam/optrace" target="_blank"> 🕮&nbsp;&nbsp;optrace </a>
+<sup>An optics simulation package with sequential raytracing, image rendering and a GUI frontend.</sup>
+
+##### <a href="https://github.com/drocheam/falco-retinal-tracking" target="_blank"> 🕮&nbsp;&nbsp;falco-retinal-tracking </a>
+<sup>Real-time retinal tracking for ophthalmic applications. Optimized for low quality funduscopy data and for high detection and low error rates.</sup>
+
+##### <a href="https://github.com/drocheam/miol-reng-tools" target="_blank">  🕮&nbsp;&nbsp;miol-reng-tools</a>
+<sup>Tools for reverse engineering multifocal intraocular lenses. </sup>
+
+##### <a href="https://github.com/drocheam/musurf-reader" target="_blank"> 🕮&nbsp;&nbsp;musurf-reader </a>
+<sup>Functions for importing µsurf confocal microscope binary file formats. </sup>
 
 
 ### Tools
 
-<div>
-<table>
-  <tr><td width="400px">
-      <h4><a href="https://github.com/drocheam/fillwan" target="_blank"> 🕮&nbsp;&nbsp;fillwan </a></h4>
-      <p><sub>A command line tool analyzing your text for undesired expressions in academic writing. </sub></p><p></p>
-    </td><td width="400px">
-      <h4><a href="https://github.com/drocheam/caprice" target="_blank"> 🕮&nbsp;&nbsp;caprice</a></h4>
-      <p><sub>Terminal frontend for the caprice online radio.</sub></p><p></p>
-    </td> </tr>
-</table>
-</div>
-<div>
-<table>
-  <tr><td width="400px">
-      <h4> <a href="https://github.com/drocheam/labyrinth" target="_blank">  🕮&nbsp;&nbsp;labyrinth</a> </h4>
-      <p><sub>Create labyrinths in Python. Maze creation algorithm with adjustable size, directional bias and laziness factor. Output as plot window, image or ASCII labyrinth.  </sub></p><p></p>
-  </td></tr>
-</table>
-</div>
+##### <a href="https://github.com/drocheam/fillwan" target="_blank"> 🕮&nbsp;&nbsp;fillwan </a>
+<sup>A command line tool analyzing your text for undesired expressions in academic writing. </sup>
+
+
+##### <a href="https://github.com/drocheam/caprice" target="_blank"> 🕮&nbsp;&nbsp;caprice</a>
+<sup>Terminal frontend for the caprice online radio.</sup>
+
+##### <a href="https://github.com/drocheam/labyrinth" target="_blank">  🕮&nbsp;&nbsp;labyrinth</a>
+<sup>Create labyrinths in Python. Maze creation algorithm with adjustable size, directional bias and laziness factor. Output as plot window, image or ASCII labyrinth. </sup>
 
 
 ### Languages
